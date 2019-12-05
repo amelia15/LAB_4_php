@@ -17,7 +17,7 @@ class SiteController extends Controller
             return $this->render('entry-confirm', ['model' => $model]);
         } else {
             // либо страница отображается первый раз, либо есть ошибка в данных
-            return $this->render('entry', ['model' => $model]);
+            return "Error";
         }
     }
 }
