@@ -7,9 +7,9 @@
 
 ***
 
-<p align="center"><bold>
+***<p align="center">
 	Хід роботи:
-	</bold></p>
+	</p>***
 	
 
 ***Завдання <br/>
